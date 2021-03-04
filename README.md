@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+    Hawizzi#6666
+</p>
 
-<!--
-**Hawizzi/Hawizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/816787284358987796/817113022010490981/2.png" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawizzi&layout=compact&theme=midnight-purple" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/814175668610269255/814176274279956491/standard.gif" />
+</p>
+
+<p align="center">
+    We are not skids we are hackers.
