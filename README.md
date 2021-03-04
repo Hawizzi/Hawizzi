@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawizzi&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawizzi&layout=compact&theme=red" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/814175668610269255/814176274279956491/standard.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hawizzi&show_icons=true&theme=red" />
 </p>
 
 <p align="center">
