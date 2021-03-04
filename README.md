@@ -15,4 +15,4 @@
 </p>
 
 <p align="center">
-    We are not skids we are hackers.
+    An emblem that is commonly associated with Anonymous. The "man without a head" represents anonymity and leaderless organization.
