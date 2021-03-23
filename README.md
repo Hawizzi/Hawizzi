@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/816787284358987796/817113022010490981/2.png" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawizzi&layout=compact&theme=midnight-purple" />
 </p>
 
