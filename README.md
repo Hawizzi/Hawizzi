@@ -1,5 +1,5 @@
 <p align="center">
-    Hawizzi#6666
+    Hawiz#1061
 </p>
 
 <p align="center">
@@ -11,4 +11,4 @@
 </p>
 
 <p align="center">
-    An emblem that is commonly associated with Anonymous. The "man without a head" represents anonymity and leaderless organization.
+    Mies
